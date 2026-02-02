@@ -1,0 +1,28 @@
+# Filename: .gitignore
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java / Maven
+target/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+
+# screenshot folders for the lab
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-1-vs-code
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-2-git-version-control
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-3-github
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-4-docker
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-5-basic-docker-usage
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-6-creating-a-dockerfile
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-7-docker-integration
+/home/tdaniels/Documents/2025-2/Software Engineering (CMPS4131)/00_labs/lab-1/pt-8-commit-push
